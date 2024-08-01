@@ -10,5 +10,4 @@ git commit -m "first class commit" //commit the file with a message
 git remote add origin https://github.com/srijanatandukar/python_class.git // link the repository 
 
 git push origin
-
 ##
