@@ -1,0 +1,5 @@
+print(3+4.5)
+print(5>3)
+bool(0)
+print("2"+'2')
+print("""Hello World""")
