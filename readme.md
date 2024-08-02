@@ -9,5 +9,11 @@ git commit -m "first class commit" //commit the file with a message
 
 git remote add origin https://github.com/srijanatandukar/python_class.git // link the repository 
 
-git push origin
+git push origin 
 ##
+
+git checkout -b Creating_new_branch // It helps in creating new branch 
+
+git add . // add files in the folder 
+git commit -m "Second commit"  // Commiting with message
+git puch origin Creating_new_branch 
